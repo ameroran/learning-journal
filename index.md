@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Growth mindset:
+The growth mindset can help us to be more creativity and be smooth with any problem in our work or life .
+It's can courage us to be sucess in our life.
 
-You can use the [editor on GitHub](https://github.com/ameroran/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## how reminder myself to keep in growth mindset?
+1. I can do it, nothing can stop me.
+2. I will tired in the beggining, but I will reach in the end.
+3. Only losers who aren't doing this .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  5 different features of Markdown to structure my page:
+1. **Styling text.**
+2.  You can contact with me at (oran.amer@yahoo.com)
+3. Type of mindset:
+    - growth mindset
+    - fixed mindset
+4. For more information ,please see "mindsetworks.com/science/"
+5. This website is :+1: 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ameroran/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
