@@ -2,5 +2,5 @@
 
 In this article, we’ll look at the role Markdown can play in your daily workflow, teach you the basic Markdown syntax to get you started, and finally recommend some great Markdown editors you can try.
 
-By **markdown** we can let the text **bold** or _elatic_ and we can but any link we want like [google](www.google.com).
+By **markdown** we can let the text **bold** or _elatic_ and we can but any link we want like [google](www.google.com), and you can put an [image](https://www.computerhope.com/jargon/m/markdown.jpg) .
 
