@@ -1,4 +1,4 @@
-# VCS 
+## VCS 
 The **VCS** can be rectified the problems in files and make some changes in files and there is many type of it, like: 
 * Local .
 * Centralized .
