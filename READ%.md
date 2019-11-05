@@ -16,7 +16,7 @@ The background color property sets the background color of an element.
 The background of element is the total size of the element , including padding and boarders .
 
 ## HSL and HSLA :
-Css has a hsl function that is used to define colors in the HSL format which stands for *HUE*, *Saturation*, and *Lightness*. All these three values can be set in the hsl() function in their respective order .
+Css has a hsl() function that is used to define colors in the HSL format which stands for *HUE*, *Saturation*, and *Lightness*. All these three values can be set in the hsl() function in their respective order .
 the *Hue* component of HSL specifies the angle in the color wheel.
 
 Done by **ameroran**.
