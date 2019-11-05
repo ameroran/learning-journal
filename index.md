@@ -13,5 +13,5 @@ It's can courage us to be sucess in our life.
     - growth mindset
     - fixed mindset
 3. For more information, [click here](mindsetworks.com/science/)
-4. I :heartbeat: this website .
+4. I :1: this website .
 5. ![growth mindset](https://www.excelsior.edu/wp-content/uploads/sites/46/2017/03/Growth-Mindset-e1565799493145.png)
